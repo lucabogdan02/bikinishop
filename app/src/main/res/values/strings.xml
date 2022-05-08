@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Bikini Shop</string>
+    <string name="hello">Welcome to my bikini shop!</string>
+    <string name="login">Log in</string>
+    <string name="register">Sign up</string>
+    <string name="username">username</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="password_again">password again</string>
+    <string name="cancel">cancel</string>
+    <string name="bust">Bust</string>
+    <string name="underbust">Underbust</string>
+    <string name="waist">Waist</string>
+    <string name="bottom_length">Bottom length</string>
+    <string name="style">Style</string>
+    <string name="other">Other requirement</string>
+    <string name="place_new_order">Place new order</string>
+    <string name="profile">Profile</string>
+    <string name="my_orders">My orders</string>
+    <string name="notifications">notifications</string>
+    <string name="channel_description">channel_description</string>
+</resources>

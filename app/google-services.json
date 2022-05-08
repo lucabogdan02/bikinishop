@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179556586922",
+    "project_id": "bikinishop-2022-mobilalk",
+    "storage_bucket": "bikinishop-2022-mobilalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179556586922:android:12b5ffd87adcd8f1d787d3",
+        "android_client_info": {
+          "package_name": "com.example.bikinishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179556586922-sju79r0taa51s7kujb7dgc5jk21duk4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChWYOQLiugPxg53kYRupiIytr306J2v7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179556586922-sju79r0taa51s7kujb7dgc5jk21duk4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
